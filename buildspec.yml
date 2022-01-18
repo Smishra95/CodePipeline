@@ -9,3 +9,4 @@ phases:
   pre_build:
     commands:
       - echo "this is alternate branch"
+      - cat main.txt
