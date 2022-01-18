@@ -8,4 +8,4 @@ phases:
         printenv
   pre_build:
     commands:
-      - echo "this is master branch"
+      - echo "this is alternate branch"
