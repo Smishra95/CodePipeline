@@ -1,0 +1,11 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - |
+        env
+        printenv
+  pre_build:
+    commands:
+      - echo "this is master branch"
