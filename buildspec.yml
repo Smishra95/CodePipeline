@@ -10,4 +10,4 @@ phases:
     commands:
       - echo "main"
       - echo "this is Third branch"
-      -cat main.txt
+      - cat main.txt
