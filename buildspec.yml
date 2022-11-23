@@ -9,4 +9,5 @@ phases:
   pre_build:
     commands:
       - echo "main"
-      - echo "this is master branch"
+      - echo "this is Third branch"
+      - cat main.txt
