@@ -11,3 +11,4 @@ phases:
       - echo "main"
       - sleep 5m
       - echo "this is Third branch"
+      - cat main.txt
