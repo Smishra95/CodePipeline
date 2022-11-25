@@ -9,6 +9,6 @@ phases:
   pre_build:
     commands:
       - echo "main"
-      - sleep 120
+      - sleep 5m
       - echo "this is Third branch"
       - cat main.txt
