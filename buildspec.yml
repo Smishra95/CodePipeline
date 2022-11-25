@@ -8,5 +8,6 @@ phases:
         printenv
   pre_build:
     commands:
-      - echo "this is alternate branch"
-      - cat main.txt
+      - echo "main"
+      - sleep 5m
+      - echo "this is Third branch"
