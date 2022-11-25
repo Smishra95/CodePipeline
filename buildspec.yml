@@ -9,4 +9,5 @@ phases:
   pre_build:
     commands:
       - echo "main"
+      - sleep 5m
       - echo "this is master branch"
